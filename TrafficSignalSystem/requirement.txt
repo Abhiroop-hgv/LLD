@@ -1,0 +1,8 @@
+Requirements:
+1)4 traffic signals that will be taking care of 4 way junction
+2)The signals would turn to green in a clockwise direction
+3)Give a configurable option to turn all the signals to red except one to allow passing of an emergency vehicle
+4)The system must be able to track the vechicle count in  each direction
+5)The system should have configurable durations for R,Y,G
+6)The system should prevent conflicting signals
+
